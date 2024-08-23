@@ -1,12 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
+   <?php require 'header.php'?>
+    <?php require 'nav.php'?>
+
 <h1>this is our first HOME script</h1>
 <h3>Hello world!</h3>
-</body>
-</html>
+
+<h1>this is our first HOME script</h1>
+<h3>Hello world!</h3>
+<h1>this is our first HOME script</h1>
+<h3>Hello world!</h3>
+<h1>this is our first HOME script</h1>
+<h3>Hello world!</h3>
+<h1>this is our first HOME script</h1>
+<h3>Hello world!</h3>
+
+
+
+<?php require'footer.php'?>
+
